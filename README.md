@@ -63,22 +63,4 @@ Consejos rápidos
 - Si algo no arranca, mira la consola: ahí suele decir qué falta, por ejemplo Java no encontrado.
 - Para probar cambios, modifica el código y reinicia la app.
 
-Cómo contribuir (pasos sencillos)
 
-1. Haz una copia (branch) para tu cambio.
-2. Haz cambios pequeños y pruebas locales.
-3. Envía un pull request con una descripción clara de lo que se cambió.
-
-Preguntas frecuentes (FAQ)
-
-- ¿Puedo usar otra base de datos? Sí — el proyecto puede configurarse para usar H2, PostgreSQL, MySQL u otra que prefieras.
-- ¿Necesito saber Spring a fondo? No: la plantilla está pensada para aprender mientras trabajas.
-
-Licencia y contacto
-
-- Usa el proyecto como quieras. Añade una licencia si lo vas a publicar, por ejemplo MIT.
-- Si quieres, deja tus preguntas en el archivo ISSUE o contacta al autor del repositorio.
-
----
-
-Si quieres que adapte el README para un flujo concreto: Docker, despliegue en la nube o pasos detallados para desarrolladores, dime cuál y lo adapto paso a paso.
