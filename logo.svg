@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ZonaFit logo">
+  <rect rx="12" width="300" height="80" fill="#0f766e" />
+  <g transform="translate(18,12)">
+    <circle cx="24" cy="24" r="20" fill="#10b981" />
+    <path d="M18 24 C20 18, 28 18, 30 24 C28 30, 20 30, 18 24 Z" fill="#065f46" />
+  </g>
+  <text x="80" y="50" font-family="Segoe UI, Roboto, Arial" font-size="30" fill="#ffffff">ZonaFit</text>
+  <text x="190" y="50" font-family="Segoe UI, Roboto, Arial" font-size="12" fill="#d1fae5">Spring</text>
+</svg>
